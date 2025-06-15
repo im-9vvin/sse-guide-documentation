@@ -1,7 +1,7 @@
----
+***
 **[← 이전: Part 11 - 프로덕션 예제](./part11-production-examples.md)** | **[목차](./README.md)** | **[다음: Part 13 - 부록 →](./part13-appendix.md)**
 
----
+***
 
 # Part 12: 실제 기업 사례
 
@@ -1121,11 +1121,11 @@ function useLinkedInMessaging(conversationId: string) {
 3. **프레즌스 추적**: 효율적인 온라인 상태 관리
 4. **타이핑 인디케이터**: 실시간 상호작용 피드백
 
----
+***
 
 **다음 장 예고**: [Part 13: 부록](./part13-appendix.md)에서는 브라우저 호환성, 참고 문서, 용어집, 그리고 유용한 코드 스니펫들을 제공합니다.
 
----
+***
 **[← 이전: Part 11 - 프로덕션 예제](./part11-production-examples.md)** | **[목차](./README.md)** | **[다음: Part 13 - 부록 →](./part13-appendix.md)**
 
----
+***

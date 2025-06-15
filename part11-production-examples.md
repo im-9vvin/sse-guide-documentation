@@ -1,7 +1,7 @@
----
+***
 **[← 이전: Part 10 - 테스팅 가이드](./part10-testing-guide.md)** | **[목차](./README.md)** | **[다음: Part 12 - 실제 기업 사례 →](./part12-real-world-cases.md)**
 
----
+***
 
 # Part 11: 프로덕션 예제 (Production Examples)
 
@@ -1559,7 +1559,7 @@ export const SSEMachineDemo: React.FC = () => {
 
 다음 장에서는 실제 기업들의 SSE 활용 사례와 부록을 다루겠습니다.
 
----
+***
 **[← 이전: Part 10 - 테스팅 가이드](./part10-testing-guide.md)** | **[목차](./README.md)** | **[다음: Part 12 - 실제 기업 사례 →](./part12-real-world-cases.md)**
 
----
+***

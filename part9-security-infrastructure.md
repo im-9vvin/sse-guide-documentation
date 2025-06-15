@@ -1,7 +1,7 @@
----
+***
 **[← 이전: Part 8 - 성능 특성과 최적화](./part8-performance-optimization.md)** | **[목차](./README.md)** | **[다음: Part 10 - 테스팅 가이드 →](./part10-testing-guide.md)**
 
----
+***
 
 # Part 9: 보안과 인프라 (Security and Infrastructure)
 
@@ -978,7 +978,7 @@ class SSEProfiler {
 
 다음 장에서는 SSE 애플리케이션의 테스트 전략과 도구들을 살펴보겠습니다.
 
----
+***
 **[← 이전: Part 8 - 성능 특성과 최적화](./part8-performance-optimization.md)** | **[목차](./README.md)** | **[다음: Part 10 - 테스팅 가이드 →](./part10-testing-guide.md)**
 
----
+***

@@ -1,7 +1,7 @@
----
+***
 **[← 이전: Part 4 - AI 챗봇 서비스의 SSE 구현](./part4-ai-chatbot-sse.md)** | **[목차](./README.md)** | **[다음: Part 6 - 브라우저에서의 불완전한 데이터 처리 →](./part6-browser-data-processing.md)**
 
----
+***
 
 # Part 5: Next.js와 Vercel AI SDK 활용
 
@@ -765,11 +765,11 @@ function createCustomStream(
 }
 ```
 
----
+***
 
 **다음 장 예고**: [Part 6: 브라우저에서의 불완전한 데이터 처리](./part6-browser-data-processing.md)에서는 SSE 스트리밍 중 발생할 수 있는 청크 분할 문제와 안전한 파싱 방법을 다루겠습니다.
 
----
+***
 **[← 이전: Part 4 - AI 챗봇 서비스의 SSE 구현](./part4-ai-chatbot-sse.md)** | **[목차](./README.md)** | **[다음: Part 6 - 브라우저에서의 불완전한 데이터 처리 →](./part6-browser-data-processing.md)**
 
----
+***

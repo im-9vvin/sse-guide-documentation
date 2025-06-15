@@ -1,7 +1,7 @@
----
+***
 **[← 이전: Part 5 - Next.js와 Vercel AI SDK 활용](./part5-nextjs-vercel-ai.md)** | **[목차](./README.md)** | **[다음: Part 7 - 에러 처리와 재연결 메커니즘 →](./part7-error-reconnection.md)**
 
----
+***
 
 # Part 6: 브라우저에서의 불완전한 데이터 처리
 
@@ -766,11 +766,11 @@ class OffscreenStreamRenderer {
 }
 ```
 
----
+***
 
 **다음 장 예고**: [Part 7: 에러 처리와 재연결 메커니즘](./part7-error-reconnection.md)에서는 SSE 연결의 안정성을 보장하는 에러 처리와 자동 재연결 구현 방법을 다루겠습니다.
 
----
+***
 **[← 이전: Part 5 - Next.js와 Vercel AI SDK 활용](./part5-nextjs-vercel-ai.md)** | **[목차](./README.md)** | **[다음: Part 7 - 에러 처리와 재연결 메커니즘 →](./part7-error-reconnection.md)**
 
----
+***

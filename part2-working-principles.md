@@ -1,7 +1,7 @@
----
+***
 **[← 이전: Part 1 - SSE 개요와 표준 스펙](./part1-overview-and-specs.md)** | **[목차](./README.md)** | **[다음: Part 3 - 빅테크의 비공식 SSE 패턴 →](./part3-bigtech-patterns.md)**
 
----
+***
 
 # Part 2: 작동 원리와 청킹 메커니즘
 
@@ -525,7 +525,7 @@ app.use(compression({
 }));
 ```
 
----
+***
 
 **[← 이전: Part 1 - SSE 개요와 표준 스펙](./part1-overview-and-specs.md)** | **[목차](./README.md)** | **[다음: Part 3 - 빅테크의 비공식 SSE 패턴 →](./part3-bigtech-patterns.md)**
 

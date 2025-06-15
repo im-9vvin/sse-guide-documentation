@@ -1,7 +1,7 @@
----
+***
 **[← 이전: Part 6 - 브라우저에서의 불완전한 데이터 처리](./part6-browser-data-processing.md)** | **[목차](./README.md)** | **[다음: Part 8 - 성능 특성과 최적화 →](./part8-performance-optimization.md)**
 
----
+***
 
 # Part 7: 에러 처리와 재연결 메커니즘
 
@@ -652,11 +652,11 @@ function ChatComponent() {
 }
 ```
 
----
+***
 
 **다음 장 예고**: [Part 8: 성능 특성과 최적화](./part8-performance-optimization.md)에서는 SSE의 성능 특성과 대규모 서비스를 위한 최적화 전략을 다루겠습니다.
 
----
+***
 **[← 이전: Part 6 - 브라우저에서의 불완전한 데이터 처리](./part6-browser-data-processing.md)** | **[목차](./README.md)** | **[다음: Part 8 - 성능 특성과 최적화 →](./part8-performance-optimization.md)**
 
----
+***

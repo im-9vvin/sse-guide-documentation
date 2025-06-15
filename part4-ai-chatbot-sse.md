@@ -1,7 +1,7 @@
----
+***
 **[← 이전: Part 3 - 빅테크의 비공식 SSE 패턴](./part3-bigtech-patterns.md)** | **[목차](./README.md)** | **[다음: Part 5 - Next.js와 Vercel AI SDK 활용 →](./part5-nextjs-vercel-ai.md)**
 
----
+***
 
 # Part 4: AI 챗봇 서비스의 SSE 구현
 
@@ -742,11 +742,11 @@ class MultimodalStreamHandler {
 }
 ```
 
----
+***
 
 **다음 장 예고**: [Part 5: Next.js와 Vercel AI SDK 활용](./part5-nextjs-vercel-ai.md)에서는 Next.js 환경에서 Vercel AI SDK를 사용하여 프로덕션 레벨의 AI 챗봇을 구현하는 방법을 자세히 다루겠습니다.
 
----
+***
 **[← 이전: Part 3 - 빅테크의 비공식 SSE 패턴](./part3-bigtech-patterns.md)** | **[목차](./README.md)** | **[다음: Part 5 - Next.js와 Vercel AI SDK 활용 →](./part5-nextjs-vercel-ai.md)**
 
----
+***

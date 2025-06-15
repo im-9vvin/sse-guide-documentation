@@ -1,7 +1,7 @@
----
+***
 **[← 이전: Part 2 - 작동 원리와 청킹 메커니즘](./part2-working-principles.md)** | **[목차](./README.md)** | **[다음: Part 4 - AI 챗봇 서비스의 SSE 구현 →](./part4-ai-chatbot-sse.md)**
 
----
+***
 
 # Part 3: 빅테크의 비공식 SSE 패턴
 
@@ -583,11 +583,11 @@ event: ready
 data: {"url": "https://my-app.vercel.app", "duration": 35000}`
 ```
 
----
+***
 
 **다음 장 예고**: [Part 4: AI 챗봇 서비스의 SSE 구현](./part4-ai-chatbot-sse.md)에서는 OpenAI, Anthropic 등 AI 서비스들의 구체적인 SSE 구현 패턴과 스트리밍 응답 처리 방법을 자세히 살펴보겠습니다.
 
----
+***
 **[← 이전: Part 2 - 작동 원리와 청킹 메커니즘](./part2-working-principles.md)** | **[목차](./README.md)** | **[다음: Part 4 - AI 챗봇 서비스의 SSE 구현 →](./part4-ai-chatbot-sse.md)**
 
----
+***

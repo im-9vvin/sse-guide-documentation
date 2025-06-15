@@ -1,7 +1,7 @@
----
+***
 **[목차](./README.md)** | **[다음: Part 2 - 작동 원리와 청킹 메커니즘 →](./part2-working-principles.md)**
 
----
+***
 
 # Part 1: SSE 개요와 표준 스펙
 
@@ -469,7 +469,7 @@ class ReconnectingEventSource {
 </script>
 ```
 
----
+***
 
 **[목차](./README.md)** | **[다음: Part 2 - 작동 원리와 청킹 메커니즘 →](./part2-working-principles.md)**
 

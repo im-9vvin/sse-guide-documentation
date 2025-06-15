@@ -1,7 +1,7 @@
----
+***
 **[← 이전: Part 7 - 에러 처리와 재연결 메커니즘](./part7-error-reconnection.md)** | **[목차](./README.md)** | **[다음: Part 9 - 보안과 인프라 →](./part9-security-infrastructure.md)**
 
----
+***
 
 # Part 8: 성능 특성과 최적화
 
@@ -767,11 +767,11 @@ interface PerformanceReport {
 }
 ```
 
----
+***
 
 **다음 장 예고**: [Part 9: 보안과 인프라](./part9-security-infrastructure.md)에서는 SSE 구현 시 고려해야 할 보안 사항과 인프라 구성을 다루겠습니다.
 
----
+***
 **[← 이전: Part 7 - 에러 처리와 재연결 메커니즘](./part7-error-reconnection.md)** | **[목차](./README.md)** | **[다음: Part 9 - 보안과 인프라 →](./part9-security-infrastructure.md)**
 
----
+***

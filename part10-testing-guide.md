@@ -1,7 +1,7 @@
----
+***
 **[← 이전: Part 9 - 보안과 인프라](./part9-security-infrastructure.md)** | **[목차](./README.md)** | **[다음: Part 11 - 프로덕션 예제 →](./part11-production-examples.md)**
 
----
+***
 
 # Part 10: 테스팅 가이드 (Testing Guide)
 
@@ -1381,7 +1381,7 @@ export const ErrorRecovery = {
 
 다음 장에서는 실제 프로덕션 환경에서 사용할 수 있는 완성된 예제들을 살펴보겠습니다.
 
----
+***
 **[← 이전: Part 9 - 보안과 인프라](./part9-security-infrastructure.md)** | **[목차](./README.md)** | **[다음: Part 11 - 프로덕션 예제 →](./part11-production-examples.md)**
 
----
+***
